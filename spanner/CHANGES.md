@@ -1,5 +1,12 @@
 # Changes
 
+## [1.94.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.93.0...spanner/v1.94.0) (2026-07-17)
+
+
+### Features
+
+* **spanner:** Implement OPAQUE login authentication for Spanner Omni ([#20085](https://github.com/googleapis/google-cloud-go/issues/20085)) ([1c073b8](https://github.com/googleapis/google-cloud-go/commit/1c073b89998e4cd73e479a8f1c33eb4c5625d944))
+
 ## [1.93.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.92.0...spanner/v1.93.0) (2026-07-15)
 
 
